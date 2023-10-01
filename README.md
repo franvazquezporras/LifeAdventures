@@ -41,3 +41,9 @@ Each level has a timer to force the player to finish each one within the given t
 
 
 *Links:* https://zetaka.itch.io/lifeadventures
+
+![image](https://github.com/franvazquezporras/LifeAdventures/assets/45006637/3a258804-cfee-4bc9-87e7-400ad8185b55)
+
+![GifLifeAdventure](https://github.com/franvazquezporras/LifeAdventures/assets/45006637/2a2c5277-1e6b-4f17-9eb8-102b048dbaf3)
+
+
