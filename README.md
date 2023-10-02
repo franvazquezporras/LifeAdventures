@@ -46,4 +46,5 @@ Each level has a timer to force the player to finish each one within the given t
 
 ![GifLifeAdventure](https://github.com/franvazquezporras/LifeAdventures/assets/45006637/2a2c5277-1e6b-4f17-9eb8-102b048dbaf3)
 
+![image](https://github.com/franvazquezporras/LifeAdventures/assets/45006637/9fcf94e1-9b4e-4035-8b84-dc7ea426b748)
 
